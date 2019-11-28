@@ -1,7 +1,7 @@
 
 
 
-**Tell us what your idea is. **
+***Tell us what your idea is.***
 
 
 HelpVision is an android application gets a picture of images with texts (either through an upload of an existing photo or the camera application of the user), recognizes the texts and converts those texts to sound/speech.
