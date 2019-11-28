@@ -1,7 +1,7 @@
 
 
 
-***Tell us what your idea is.***
+**Tell us what your idea is.**
 
 
 HelpVision is an android application gets a picture of images with texts (either through an upload of an existing photo or the camera application of the user), recognizes the texts and converts those texts to sound/speech.
@@ -18,23 +18,23 @@ Currently, I have only been able to create the welcome and picture screens using
 
 <li>**List of ways Google can help:**
  <ul>
-<li>**Mentorship:** A mentor that can keep me accountable and encourage me to keep going when things get tough will be greatly appreciated. I must admit that I am still learning the ropes of android development and I am liable to get stuck along the way. Having a mentor to help me and push me to keep going will really go a long way.</li>
+<li>Mentorship: A mentor that can keep me accountable and encourage me to keep going when things get tough will be greatly appreciated. I must admit that I am still learning the ropes of android development and I am liable to get stuck along the way. Having a mentor to help me and push me to keep going will really go a long way.</li>
 <li>**Vision API and Tensorflow Lite:** I could use Google’s help by getting datasets that I can work with in order to train the model that converts text to speech. The Vision API which is part of the ML kit will enable me to convert the writings on the images to texts.</li></ul></li>
-<li>**Timeline for the project:**
+<li>Timeline for the project:
  <ul>
-<li>**December 2019**
+<li>December 2019
  - Learn Tensorflow by working on projects and learn how to deploy models with Tensorflow Lite<br>
  - Look for a UI/UX designer to make a user friendly design for the application.</li>
-<li>**January 2019**
+<li>January 2019
  - Designs are ready<br>
  - Work on the application User Interface using material design guidelines, navigation components, animations, etc.<br>
  - Data acquiring, cleaning and working on the tensorflow model.</li>
-<li>**February - April 2019**
+<li>February - April 2019
  - Attend Google’s technical expertise bootcamp, network with participants and engineers, gain valuable knowledge that will help in making the project a success.<br>
  - Start working on integrating the Vision API functionalities.<br>
  - Train the tensorflow model with more data.<br>
  - Testing and deployment.</li>
-<li>**May 1st 2019**
+<li>May 1st 2019
  - Would have successfully completed the project, Given hope to blind people, and made myself,  Google and my assigned mentor proud.</li></ul></li>
 </ol>
 
@@ -48,8 +48,8 @@ Currently, I have only been able to create the welcome and picture screens using
 <p>I love learning new skills and I believe the future belongs to those who are open to change. I have a determined spirit and I never give up when challenges suffice. I have a penchant for coding and I was selected for the Google Africa scholarship in partnership with Andela and Udacity out of 100+ applicants. During the program, I got to learn the basics of android development using Java as the core programming language and I earned an Android Basics Nanodegree from Udacity. Currently in the process of learning, unlearning and relearning the concepts of software development and engineering. </p>
 <p>I love giving back to the community by participating in community development service programs, contributing to open source and writing articles on android development via my medium blog. I am an Hacktoberfest Finalist and a GirlScript summer of code finalist. I love these two programmes because I am given a chance to contribute to open source.</p>
 
-<p>**Here are some of the Android projects I have worked on:**<br>
-**GO FOODIE ANDROID APPLICATION (Team Project): **<br>
+**Here are some of the Android projects I have worked on:**<br>
+**GO FOODIE ANDROID APPLICATION (Team Project):**<br>
  - Worked in a team of eight (8) to build an E-commerce application for a restaurant <br>
  - Acted as the team lead and collaborated with my team members to ensure that the right design patterns are used<br> 
  - Built the complete sign up and sign in authentication with email and password using Firebase email and password authentication feature <br>
