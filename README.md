@@ -13,10 +13,10 @@ The android application will utilize an implicit intent in order to make use of 
 **Tell us how you plan on bringing it to life.** 
 <ol>
 
-<li>**Where the project is at currently :**
+<li>Where the project is at currently :
 Currently, I have only been able to create the welcome and picture screens using Android Navigation Components. I have also been able to create implicit intents that will enable the user to either take a photo with an existing camera application, or upload a photo from the gallery. Here’s the code on github:  https://github.com/Rita-Okonkwo/AndroidDevChallenge</li>
 
-<li>**List of ways Google can help:**
+<li>List of ways Google can help:
  <ul>
 <li>Mentorship: A mentor that can keep me accountable and encourage me to keep going when things get tough will be greatly appreciated. I must admit that I am still learning the ropes of android development and I am liable to get stuck along the way. Having a mentor to help me and push me to keep going will really go a long way.</li>
 <li>**Vision API and Tensorflow Lite:** I could use Google’s help by getting datasets that I can work with in order to train the model that converts text to speech. The Vision API which is part of the ML kit will enable me to convert the writings on the images to texts.</li></ul></li>
